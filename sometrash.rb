@@ -1,6 +1,6 @@
 require 'formula'
 
-class Trash < Formula
+class Sometrash < Formula
   homepage 'http://hasseg.org/trash/'
   url 'https://github.com/ali-rantakari/trash/archive/v0.8.4.tar.gz'
   sha1 'e70ebeba684fd1fd126d912e3528115fbb2fb7be'
